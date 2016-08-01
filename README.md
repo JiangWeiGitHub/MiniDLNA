@@ -7,8 +7,8 @@
 [MiniDLNA](https://help.ubuntu.com/community/MiniDLNA)
 
 ### Configuration
-  + File Path
-    `/etc/minidlna.conf`
+  + File Path<p>
+    `/etc/minidlna.conf`<p>
 
   + Configuration Globally (for all users)
   ```
@@ -30,5 +30,5 @@
     service minidlna force-reload
   ```
 
-  + Configuration Locally (per user)
-  see [MiniDLNA](https://help.ubuntu.com/community/MiniDLNA)
+  + Configuration Locally (per user)<p>
+  see [MiniDLNA](https://help.ubuntu.com/community/MiniDLNA)<p>
