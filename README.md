@@ -23,10 +23,10 @@
   ```
   PS:
   ```
-    Restart the daemon for changes to take effect:
+    # Restart the daemon for changes to take effect:
     service minidlna restart
 
-    To rebuild the database use:
+    # To rebuild the database use:
     service minidlna force-reload
   ```
 
