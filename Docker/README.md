@@ -3,6 +3,7 @@
   ```
   docker pull ubuntu:latest
   docker run --net=host -it -p 8200:8200 -p 1900:1900/udp -v /home/wisnuc/home/wisnuc:/home/:ro IMAGEID /bin/sh
+  PS: use "--net=host" instead of "bridge"
 
   apt-get update
   apt-get -y install minidlna nano
